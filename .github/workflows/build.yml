@@ -1,4 +1,4 @@
-name: Build recovery Image
+name: Build recovery Image...
 
 on: 
   push:
